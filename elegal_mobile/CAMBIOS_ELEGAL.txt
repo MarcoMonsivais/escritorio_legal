@@ -1,0 +1,33 @@
+BUGS
+Caso donde se borra el chat: el problema era causado por el método para obtener al usuario, se elimino la opción de historial para abogado ya que se consulta desde el inicio, el problema puede persistir si un abogado se regitra como usuario y crea un chat y posteriormente se pasa al rol de agente
+
+Cambio
+Eliminar dispositivo de notificaciones al cerrar sesión
+Validación en caso de buscar un request que ya no exista
+----------------------------------------------------------------------------------------------
+Futura Version
+-CREAR VERSION PARA CONVIVENCIA CON USUARIOS DE PAGINA WEB
+-IVA de recibo mover
+-agregar pantalla para que abogados vean todas las peticiones [LISTO]
+-recibo por correo electronica
+-pantalla para ver notificaciones request [PENDIENTE]
+-un chat para cada caso [PENDIENTE]
+-mostrar datos del caso en chat de abogado [LISTO]
+-BUG para escenarios donde al recibir la notificacion la app esta: abierta, cerrada, minimizada [LISTO]
+-BUG problema al querer hacer un segundo pago después de hacer el primero, solo la primera vez? [EN ESTA VERSIÓN]
+-dictador
+-onEditingComplete en formularios
+-bug de historial vacio [LISTO]
+-agregar firma en boton
+-identificar si se ingreso por primera vez con facebook
+-
+--PENDIENTES
+-URL de aviso de privacidad [LISTO]
+-cuenta de facebook para desarrollador, ya que la nueva no puede ser usada por facebook
+-50 cuentas de correo
+-pagos con tarjeta stripe en web
+-notificaciones de prueba (250) cuenta desarrollador one signal gratis para 50 usuarios
+-notificaciones ilimitadas anuales (290 dls) one signal para 100mil usuarios
+-servidor en godaddy?
+-cuenta de apple desarrollador (199 dls) como persona física, como personal moral con duns number (499 dls)
+-generar duns number (1299 dls)

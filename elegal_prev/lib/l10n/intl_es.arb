@@ -1,0 +1,364 @@
+{
+  "@@locale": "es",
+  "@@last_modified": "2019-08-15T12:38:54.509525",
+  "title": "TokTok",
+  "@title": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Correo Electrónico",
+  "@email": {
+    "description": "Email address on Inputs",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Contraseña",
+  "@password": {
+    "description": "Password on Inputs",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordConfirmation": "Confirmar Contraseña",
+  "@passwordConfirmation": {
+    "description": "Password Confirmation on Inputs",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Inciar Sesión",
+  "@login": {
+    "description": "Login for buttons",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginFacebook": "Iniciar Sesión con Facebook",
+  "@loginFacebook": {
+    "description": "Login with Facebook for buttons",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginGoogle": "Iniciar Sesión con Google",
+  "@loginGoogle": {
+    "description": "Login with Google for buttons",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newQuestion": "Nuevo en TokTok?",
+  "@newQuestion": {
+    "description": "Question made to user for registration",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "Regístrate",
+  "@signUp": {
+    "description": "Clickable word for user to sign up",
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgot": "¿Olvidaste tu contraseña?",
+  "@forgot": {
+    "description": "Question made to user if he forgot the password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Nombre",
+  "@name": {
+    "description": "Asking the user about his name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "Apellidos",
+  "@lastName": {
+    "description": "Asking the user about his Last Name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cellphone": "Celular",
+  "@cellphone": {
+    "description": "Asking the user about his Cellphone",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "Género",
+  "@gender": {
+    "description": "Asking the user about his Gender",
+    "type": "text",
+    "placeholders": {}
+  },
+  "age": "Edad",
+  "@age": {
+    "description": "Asking the user about his Age",
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Registro",
+  "@submit": {
+    "description": "Input button to form submit",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validAge": "Ingresa una edad válida",
+    "@validAge": {
+      "description": "Error message when the age submitted is not valid",
+      "type": "text",
+      "placeholders": {}
+    },
+    "validGender": "Selecciona un género",
+    "@validGender": {
+      "description": "Error message when the gender is not selected",
+      "type": "text",
+      "placeholders": {}
+    },
+    "validCellphone": "Por favor ingresa un número celular válido",
+    "@validCellphone": {
+      "description": "Error message when the cellphone submitted is not valid",
+      "type": "text",
+      "placeholders": {}
+    },
+    "validText": "Por favor ingresa un texto",
+    "@validText": {
+      "description": "Error message when the user didn't enter text",
+      "type": "text",
+      "placeholders": {}
+    },
+    "validPasswordMatch": "Las contraseñas no coinciden",
+    "@validPasswordMatch": {
+      "description": "Error message when the",
+      "type": "text",
+      "placeholders": {}
+    },
+    "validPasswordLength": "Debe tener al menos 8 caracteres de largo",
+    "@validPasswordLength": {
+      "description": "Error message when the password field is less than 8 characters",
+      "type": "text",
+      "placeholders": {}
+    },
+    "validEmail": "Por favor ingresa una dirección de correo válida",
+    "@validEmail": {
+      "description": "Error message when the text entered is not an email",
+      "type": "text",
+      "placeholders": {}
+    },
+    "validEmailText": "Por favor ingresa una dirección de correo electrónico",
+    "@validEmailText": {
+      "description": "Error message when the email field is empty",
+      "type": "text",
+      "placeholders": {}
+    },
+    "cellphoneNumber": "Tu número de celular",
+    "@cellphoneNumber": {
+        "description": "Request the cellphone number of user",
+        "type": "text",
+        "placeholders": {}
+    },
+    "smsCode": "Por favor ingresa el código recibido vía sms",
+    "@smsCode": {
+        "description": "Request the sms code",
+        "type": "text",
+        "placeholders": {}
+    },
+    "settings": "Configuraciones",
+     "@settings": {
+        "description": "Settings label for side drawer",
+        "type": "text",
+        "placeholders": {}
+     },
+     "logout": "Cerrar sesión",
+     "@logout": {
+        "description": "Logout label for side drawer",
+        "type": "text",
+        "placeholders": {}
+     },
+    "language": "Lenguaje",
+    "@language": {
+      "description": "Language label for side drawer",
+      "type": "text",
+      "placeholders": {}
+    },
+    "selectLanguage": "Selecciona un idioma",
+    "@selectLanguage": {
+      "description": "Select a language label",
+      "type": "text",
+      "placeholders": {}
+    },
+    "cellValidation": "Validación de celular",
+      "@cellValidation": {
+        "description": "Cellphone Verification label",
+        "type": "text",
+        "placeholders": {}
+      },
+         "hello": "Hola",
+         "@hello": {
+           "description": "Greeting on splash",
+           "type": "text",
+           "placeholders": {}
+         },
+         "whereWeGoing": "¿A dónde iremos hoy?",
+         "@whereWeGoing": {
+           "description": "Greeting question on splash",
+           "type": "text",
+           "placeholders": {}
+         },
+         "getStarted": "Comencemos",
+         "@getStarted": {
+           "description": "Button on splash",
+           "type": "text",
+           "placeholders": {}
+         },
+         "yourProfileInfo": "Tu información de perfil",
+         "@yourProfileInfo": {
+           "description": "Profile information option in menu",
+           "type": "text",
+           "placeholders": {}
+         },
+         "address": "Dirección",
+         "@address": {
+           "description": "Address information on menu",
+           "type": "text",
+           "placeholders": {}
+         },
+         "yourVehicles": "Tus Vehículos",
+         "@yourVehicles": {
+           "description": "Vehicle information on menu",
+           "type": "text",
+           "placeholders": {}
+         },
+         "payment": "Pagos",
+         "@payment": {
+           "description": "Payment option on menu",
+           "type": "text",
+           "placeholders": {}
+         },
+         "paymentMethods": "Métodos de pago",
+         "@paymentMethods": {
+           "description": "Title on payment methods page",
+           "type": "text",
+           "placeholders": {}
+         },
+         "addPaymentMethod": "Agregar un método de pago",
+         "@addPaymentMethod": {
+           "description": "Label to add a payment method",
+           "type": "text",
+           "placeholders": {}
+         },
+         "coupons": "Cupones",
+         "@coupons": {
+           "description": "Label of coupons",
+           "type": "text",
+           "placeholders": {}
+         },
+         "creditOrDebit": "Tarjeta de débito o crédito",
+         "@creditOrDebit": {
+           "description": "Label to enter credit or debit cards",
+           "type": "text",
+           "placeholders": {}
+         },
+            "getParked": "¡Hola! ¿A dónde iremos hoy?",
+            "@getParked": {
+              "description": "Label in login screen",
+              "type": "text",
+              "placeholders": {}
+            },
+            "enterMobile": "Número celular",
+            "@enterMobile": {
+              "description": "Label in login screen to enter mobile number",
+              "type": "text",
+              "placeholders": {}
+            },
+            "orConnectSocial": "O conéctate con redes sociales",
+            "@orConnectSocial": {
+              "description": "Label in login screen to connect with social media",
+              "type": "text",
+              "placeholders": {}
+            },
+            "chooseAccount": "Escoge una cuenta",
+            "@chooseAccount": {
+              "description": "Label to select a social media account",
+              "type": "text",
+              "placeholders": {}
+            },
+            "socialDisclaimer": "Al hacer click en una opción de red social puedes recibir un SMS para verificación. Costo por mensaje y datos pueden aplicarse.",
+            "@socialDisclaimer": {
+              "description": "Disclaimer on selecting a social media account",
+              "type": "text",
+              "placeholders": {}
+            },
+            "pleaseMobileNumber": "Por favor ingresa tu número móvil",
+            "@pleaseMobileNumber": {
+              "description": "Label when login in by mobile number",
+              "type": "text",
+              "placeholders": {}
+            },
+            "smsDisclaimer": "Al continuar puedes recibir un SMS para verificación. Costo por mensaje y datos pueden aplicarse.",
+            "@smsDisclaimer": {
+              "description": "Disclaimer that a sms may be received",
+              "type": "text",
+              "placeholders": {}
+            },
+            "fourDigitCode": "Ingresa el código de 4-digitos enviado al número",
+            "@fourDigitCode": {
+              "description": "Label askinf for code received via sms",
+              "type": "text",
+              "placeholders": {}
+            },
+            "correctMobile": "¿Ingresaste el número móvil correcto?",
+            "@correctMobile": {
+              "description": "Label asking if the correct mobile number was introduced",
+              "type": "text",
+              "placeholders": {}
+            },
+            "requestAnotherCode": "Solicitar otro código",
+            "@requestAnotherCode": {
+              "description": "Label to request another code",
+              "type": "text",
+              "placeholders": {}
+            },
+               "resendAnother": "Reenviar código en 00:",
+               "@resendAnother": {
+                 "description": "Label to request another code",
+                 "type": "text",
+                 "placeholders": {}
+               },
+                  "confirmInformation": "Confirma tu información",
+                  "@confirmInformation": {
+                    "description": "Label to request user information",
+                    "type": "text",
+                    "placeholders": {}
+                  },
+                  "first": "Nombres",
+                  "@first": {
+                    "description": "Label to request user names",
+                    "type": "text",
+                    "placeholders": {}
+                  },
+                  "last": "Apellidos",
+                  "@last": {
+                    "description": "Label to request user names",
+                    "type": "text",
+                    "placeholders": {}
+                  },
+                  "termsAndConds1": "Al continuar, confirmo que he leido y aceptado los ",
+                  "@termsAndConds1": {
+                    "description": "Part 1 of terms and conditions",
+                    "type": "text",
+                    "placeholders": {}
+                  },
+                  "termsAndConds2": "Términos y Condiciones",
+                  "@termsAndConds2": {
+                    "description": "Part 2 of terms and conditions",
+                    "type": "text",
+                    "placeholders": {}
+                  },
+                  "termsAndConds3": " y la ",
+                  "@termsAndConds3": {
+                    "description": "Part 3 of terms and conditions",
+                    "type": "text",
+                    "placeholders": {}
+                  },
+                  "termsAndConds4": "Política de Privacidad ",
+                  "@termsAndConds4": {
+                    "description": "Part 4 of terms and conditions",
+                    "type": "text",
+                    "placeholders": {}
+                  }
+}

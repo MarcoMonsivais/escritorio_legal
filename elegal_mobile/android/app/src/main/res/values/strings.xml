@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <string name="app_name">Escritorio Legal</string>-->
+<!--    <string name="facebook_app_id">495766415656167</string>-->
+<!--    <string name="fb_login_protocol_scheme">fb495766415656167</string>-->
+<!--    <string name="facebook_client_token">bc5b8ef5422f66acacf61dc363ab55cd</string>-->
+
+<!--    VERSION PRODUCTIVA-->
+<!--    9ab362054077ce6fe539fe700d6e62ac-->
+    <string name="app_name">EscritorioLegal</string>
+    <string name="facebook_app_id">2912541452380060</string>
+    <string name="fb_login_protocol_scheme">fb2912541452380060</string>
+    <string name="facebook_client_token">5f399755e38a03b58d96dd5ff77d1de4</string>
+
+    <color name="com_facebook_button_background_color_focused_disabled">#3C5A99</color>
+    <color name="com_facebook_button_background_color_focused">#3C5A99</color>
+    <color name="com_facebook_button_border_color_focused">#3C5A99</color>
+
+</resources>

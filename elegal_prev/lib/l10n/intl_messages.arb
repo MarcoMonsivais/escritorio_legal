@@ -1,0 +1,363 @@
+{
+  "@@last_modified": "2019-12-07T09:39:32.684363",
+  "title": "TokTok",
+  "@title": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email Address",
+  "@email": {
+    "description": "Email address on Inputs",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password on Inputs",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordConfirmation": "Password Confirmation",
+  "@passwordConfirmation": {
+    "description": "Password Confirmation on Inputs",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login for buttons",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginFacebook": "Login with Facebook",
+  "@loginFacebook": {
+    "description": "Login with Facebook for buttons",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginGoogle": "Login with Google",
+  "@loginGoogle": {
+    "description": "Login with Google for buttons",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newQuestion": "New to TokTok?",
+  "@newQuestion": {
+    "description": "Question made to user for registration",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Clickable word for user to sign up",
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgot": "Forgot Password?",
+  "@forgot": {
+    "description": "Question made to user if he forgot the password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Name",
+  "@name": {
+    "description": "Asking the user about his name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "Last Name",
+  "@lastName": {
+    "description": "Asking the user about his Last Name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cellphone": "Cellphone",
+  "@cellphone": {
+    "description": "Asking the user about his Cellphone",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "Gender",
+  "@gender": {
+    "description": "Asking the user about his Gender",
+    "type": "text",
+    "placeholders": {}
+  },
+  "age": "Age",
+  "@age": {
+    "description": "Asking the user about his Age",
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "Input button to form submit",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validAge": "Please enter a valid Age",
+  "@validAge": {
+    "description": "Error message when the age submitted is not valid",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validGender": "Please select a Gender",
+  "@validGender": {
+    "description": "Error message when the gender is not selected",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validCellphone": "Please enter a valid cellphone number",
+  "@validCellphone": {
+    "description": "Error message when the cellphone submitted is not valid",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validText": "Please enter some Text",
+  "@validText": {
+    "description": "Error message when the user didn't enter text",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validPasswordMatch": "Password doesn't match",
+  "@validPasswordMatch": {
+    "description": "Error message when the",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validPasswordLength": "Make it at least 8 characters long",
+  "@validPasswordLength": {
+    "description": "Error message when the password field is less than 8 characters",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validEmail": "Please enter valid email address",
+  "@validEmail": {
+    "description": "Error message when the text entered is not an email",
+    "type": "text",
+    "placeholders": {}
+  },
+  "validEmailText": "Please enter an email address",
+  "@validEmailText": {
+    "description": "Error message when the email field is empty",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cellphoneNumber": "Your cellphone number",
+  "@cellphoneNumber": {
+    "description": "Request the cellphone number of user",
+    "type": "text",
+    "placeholders": {}
+  },
+  "smsCode": "Please enter the code received via SMS",
+  "@smsCode": {
+    "description": "Request the sms code",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings label for side drawer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout label for side drawer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language label for side drawer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectLanguage": "Select a Language",
+  "@selectLanguage": {
+    "description": "Select a language label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cellValidation": "Cellphone Verification",
+  "@cellValidation": {
+    "description": "Cellphone Verification label",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hello": "Hello",
+  "@hello": {
+    "description": "Greeting on splash",
+    "type": "text",
+    "placeholders": {}
+  },
+  "whereWeGoing": "Where are we going today?",
+  "@whereWeGoing": {
+    "description": "Greeting question on splash",
+    "type": "text",
+    "placeholders": {}
+  },
+  "getStarted": "Get started",
+  "@getStarted": {
+    "description": "Button on splash",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourProfileInfo": "Your Profile Information",
+  "@yourProfileInfo": {
+    "description": "Profile information option in menu",
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Address",
+  "@address": {
+    "description": "Address information on menu",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourVehicles": "Your Vehicles",
+  "@yourVehicles": {
+    "description": "Vehicle information on menu",
+    "type": "text",
+    "placeholders": {}
+  },
+  "payment": "Payment",
+  "@payment": {
+    "description": "Payment option on menu",
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentMethods": "Payment Methods",
+  "@paymentMethods": {
+    "description": "Title on payment methods page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addPaymentMethod": "Add payment method",
+  "@addPaymentMethod": {
+    "description": "Label to add a payment method",
+    "type": "text",
+    "placeholders": {}
+  },
+  "coupons": "Coupons",
+  "@coupons": {
+    "description": "Label of coupons",
+    "type": "text",
+    "placeholders": {}
+  },
+  "creditOrDebit": "Credit or debit card",
+  "@creditOrDebit": {
+    "description": "Label to enter credit or debit cards",
+    "type": "text",
+    "placeholders": {}
+  },
+  "getParked": "Hello! Where are we going today?",
+  "@getParked": {
+    "description": "Label in login screen",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterMobile": "Mobile number",
+  "@enterMobile": {
+    "description": "Label in login screen to enter mobile number",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orConnectSocial": "Or connect with social",
+  "@orConnectSocial": {
+    "description": "Label in login screen to connect with social media",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chooseAccount": "Choose an account",
+  "@chooseAccount": {
+    "description": "Label to select a social media account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "socialDisclaimer": "By clicking on a social option you may receive an SMS for verification. Message and data rates may apply.",
+  "@socialDisclaimer": {
+    "description": "Disclaimer on selecting a social media account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseMobileNumber": "Please enter your mobile number",
+  "@pleaseMobileNumber": {
+    "description": "Label when login in by mobile number",
+    "type": "text",
+    "placeholders": {}
+  },
+  "smsDisclaimer": "By continuing you may receive an SMS for verification. Message and data rates may apply.",
+  "@smsDisclaimer": {
+    "description": "Disclaimer that a sms may be received",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fourDigitCode": "Enter the 4-digit code sent to you at",
+  "@fourDigitCode": {
+    "description": "Label askinf for code received via sms",
+    "type": "text",
+    "placeholders": {}
+  },
+  "correctMobile": "Did you enter the correct mobile number?",
+  "@correctMobile": {
+    "description": "Label asking if the correct mobile number was introduced",
+    "type": "text",
+    "placeholders": {}
+  },
+  "requestAnotherCode": "Request another code",
+  "@requestAnotherCode": {
+    "description": "Label to request another code",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resendAnother": "Resend code in 00:",
+  "@resendAnother": {
+    "description": "Label to request another code",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmInformation": "Confirm your information",
+  "@confirmInformation": {
+    "description": "Label to request user information",
+    "type": "text",
+    "placeholders": {}
+  },
+  "first": "First",
+  "@first": {
+    "description": "Label to request user names",
+    "type": "text",
+    "placeholders": {}
+  },
+  "last": "Last",
+  "@last": {
+    "description": "Label to request user names",
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsAndConds1": "By continuing, I confirm that I have read and agree to the ",
+  "@termsAndConds1": {
+    "description": "Part 1 of terms and conditions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsAndConds2": "Terms & Conditions",
+  "@termsAndConds2": {
+    "description": "Part 2 of terms and conditions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsAndConds3": " and ",
+  "@termsAndConds3": {
+    "description": "Part 3 of terms and conditions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsAndConds4": "Privacy Policy ",
+  "@termsAndConds4": {
+    "description": "Part 4 of terms and conditions",
+    "type": "text",
+    "placeholders": {}
+  }
+}

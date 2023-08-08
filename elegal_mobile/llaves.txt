@@ -1,0 +1,17 @@
+storePassword=1q2w3e4r
+keyPassword=1q2w3e4r
+keyAlias=escritoriolegal
+storeFile=C:\\Users\\artur\\keys\\escritoriolegal.jks
+
+
+cuenta de stripe
+escritoriolegalapp@gmail.com
+eLegal2020
+
+
+pk_live_51JuScGKR7QshmJ5af4Ofemx7sJPefDcRucLKDbWaLzYhzsNdDOPvYaqVCVOG5LygyvFIaGvUnGEYCboZY0qOsF9E00GRYmUC1O
+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
+
+correo del cliente
+escritoriolegalapp@gmail.com
+nombre Javier Jiménez García

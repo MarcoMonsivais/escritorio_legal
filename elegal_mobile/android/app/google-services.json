@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "811756378024",
+    "firebase_url": "https://escritorio-legal.firebaseio.com",
+    "project_id": "escritorio-legal",
+    "storage_bucket": "escritorio-legal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811756378024:android:ffa445ff4b75577c5c2f9d",
+        "android_client_info": {
+          "package_name": "com.escritorioabogados.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811756378024-5ptt44v6ghrgj71nl9tramedoh8vvmr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.escritorioabogados.app",
+            "certificate_hash": "2dfa71c35ee41b1732eebd3630033e8275243e47"
+          }
+        },
+        {
+          "client_id": "811756378024-vgikosiopsih6lajavlocvj1a0o69kmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.escritorioabogados.app",
+            "certificate_hash": "29f9f154bda026c0f9d9a893d7a3a8f20dacd0c8"
+          }
+        },
+        {
+          "client_id": "811756378024-098hu4bpv7bkcbv6b0856btmjdtbbl0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTxKyldDgJeNLVLUdmV14R-7uFY5V2mII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811756378024-098hu4bpv7bkcbv6b0856btmjdtbbl0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

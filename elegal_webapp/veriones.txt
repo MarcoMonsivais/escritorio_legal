@@ -1,0 +1,48 @@
+PÁGINA WEB
+-Login
+	Correo
+	Google
+	Facebook
+
+-Registro
+	Correo
+
+-Inicio
+	-Abogados
+		Mostrar chats abiertos
+			Chat con usuario
+		Mostrar peticiones sin atender
+			Chat con usuario
+	-Usuarios
+		Mostrar servicios
+			Pantalla de registro de información
+			Pago con tarjeta
+			Página de espera
+
+-Perfil
+	Mostrar datos de usuario
+	
+-Historial
+	Mostrar lista de chats
+	
+-Cerrar sesión
+			
+PAQUETES
+-Pago con tarjeta
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.6 //dio: ^3.0.10
+  webview_flutter: ^1.0.0
+  js: ^0.6.2
+  
+-login/register
+  firebase_auth_web: ^3.3.17
+  cloud_firestore_web: ^2.6.17
+  //NEEDS dio: ^4.0.6
+  flutter_firebase_chat_core: ^1.6.2
+  shared_preferences: ^2.0.15
+  
+ACCIONES
+-Configurar aplicación web en firebase_auth_web
+-Conectar web app con firebase console
+-Integración para leer páginas desde internet [neecesario en flutter web app]
+-Diseño de página
